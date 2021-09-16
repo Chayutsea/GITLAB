@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+777777777777777777777777777777777777777777+
 void main()
 { char Name[40], G[5], answer[10];
   int i;
